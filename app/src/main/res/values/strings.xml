@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JIVE</string>
+    <string name="title_activity_main">JIVE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_subtitleone">An E-Magazine Project</string>
+    <string name="home_subtitletwo">By Lahore Grammar School Johar Town Senior Boys</string>
+    <string name="about_subtitle">Know The background of this magazine</string>
+    <string name="about_body">“JIVE” originally began as a monthly gazette launched in December 2009 as a student-run publication entailing the events and current affairs of the school, as well as going beyond it. It was founded by magazine editors Talha bin Mohsin and Saffan Qadir and in this endeavour, they received guidance and support from the Co-Curricular Head Mr. Muhammad Yahya Cheema.\n\nInitially, the project was a two-page gazette in black and white and was distributed amongst all students who were interested. Soon enough, the editors had chalked out a proposal to the school administration that requested funds to upgrade the publication to a full-fledged four page coloured newsletter that would be distributed among the entire student body, and the proposal was gladly approved.\n\nHowever, as the editors had passed the torch to their successors, it seemed as if the spirit of JIVE never managed to see the light of day again, but rather ebbed into obscurity. Yet, seven years on from the last issue of JIVE that was released (May 2010), the two newly chosen editors sought to rejuvenate JIVE as a form of literary awareness for the school, as well as a way of keeping the students up to date with the happenings. After immense and rigorous efforts, Fadil Hashmey and Abdullah Moeen held up the Golden Fleece which was the May 2017 Revival Edition of JIVE.\n\nNow, in order to keep up with the technological prowess of today’s world, we proudly introduce the official android application of JIVE where you can find all the editions of JIVE, as well as other publications and works such as the school magazine and event-specific newsletters, all in the palm of your hand!</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_pdf">JIVE: Magazine</string>
+    <string name="title_activity_feedback">JIVE: Feedback</string>
+    <string name="read_error">Oops! Something went wrong.</string>
+</resources>

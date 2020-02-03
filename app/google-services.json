@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "587896207016",
+    "firebase_url": "https://jive-7cc68.firebaseio.com",
+    "project_id": "jive-7cc68",
+    "storage_bucket": "jive-7cc68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587896207016:android:a7c87783267d3e5f",
+        "android_client_info": {
+          "package_name": "com.smkh.jive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587896207016-0ssu7mmho6fl1drpeq0k8g2h06gg48cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smkh.jive",
+            "certificate_hash": "ffe62256cfc2725572c7e6729e3c6a2a50ec10d4"
+          }
+        },
+        {
+          "client_id": "587896207016-cr484guvr3e92f3hoovsk901njrcdi4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587896207016-cr484guvr3e92f3hoovsk901njrcdi4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
